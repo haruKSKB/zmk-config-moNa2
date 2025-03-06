@@ -24,6 +24,16 @@
             bindings = <&kp LS(TAB)>;
             key-positions = <13 12>;
         };
+
+        comma {
+            bindings = <&kp COMMA>;
+            key-positions = <30 31>;
+        };
+
+        period {
+            bindings = <&kp PERIOD>;
+            key-positions = <31 32>;
+        };
     };
 
     macros {
