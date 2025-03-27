@@ -27,12 +27,12 @@
 
         comma {
             bindings = <&kp COMMA>;
-            key-positions = <30 31>;
+            key-positions = <19 18>;
         };
 
         period {
             bindings = <&kp PERIOD>;
-            key-positions = <31 32>;
+            key-positions = <19 20>;
         };
     };
 
